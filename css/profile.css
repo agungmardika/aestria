@@ -1,0 +1,49 @@
+    /* #bg-page-profile
+{
+    overflow: hidden;
+    position: relative;
+    right: 10px;
+}
+
+#menu-profile
+{
+    float: left;
+    width: 122px;
+    background: #1e5474;
+}
+#menu-profile ul
+{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+#menu-profile ul li a
+{
+    display: block;
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+#menu-profile ul li a:hover
+{
+    background: orangered;
+    transition: all 0.2s ease;
+}
+#menu-profile ul li a.active
+{
+    background: orangered;
+    position: relative;
+    left: 6px;
+    transition: all 0.2s ease;
+    font-weight: 600;
+}
+
+#profile-content
+{
+    float: left;
+    width: 845px;
+    padding: 10px;
+    background: #f7f7f7;
+} */
