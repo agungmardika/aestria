@@ -26,15 +26,6 @@ $kota = $row['kota'];
                 </td>
 
             </tr>
-            <tr class=" border-b dark:border-gray-700">
-                <th scope="row" class="px-6 py-4 font-medium text-black whitespace-nowrap ">
-                    Nama Pemesan
-                </th>
-                <td class="font-semibold px-6 py-4">
-                    <?php echo $nama; ?>
-                </td>
-
-            </tr>
             <tr class="border-b dark:border-gray-700">
                 <th scope="row" class="px-6 border-b dark:border-gray-700 py-4 font-medium text-gray-900 whitespace-nowrap ">
                     Nama Penerima
